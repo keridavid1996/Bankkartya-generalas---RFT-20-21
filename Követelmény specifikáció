@@ -1,0 +1,28 @@
+1.Jelenlegi helyzet leírása 
+
+Kakuk Balázs és Kéri Dávid a rendszerfejlesztés technológiája tárgy teljesítése céljából szeretne egy bankkártya generátor szoftvert készíteni. 
+Az ötletet Geda Gábor - Adatszerkezetek és algoritmusok jegyzetében található Luhm-algoritmus adta amivel a bankkártya szám valódiságát lehet tesztelni.
+
+2. Követelménylista
+
+Bankkártya grafikai tervezése
+Szöveg dobozok elhelyezése a kártyán
+
+Label-ek elhelyezése a kártyán
+Tesztelés
+Label-ek átlászóvá tétele
+
+Generáló osztály hozzáadása
+Mastercard kártya tipus generálása
+Amex kártya tipus generálása
+Diners kártya típus generálása
+Discover kártya típus generálása
+Enroute kártya típus generálása
+JCB-15 kártya típus generálása
+JCB-16 kártya típus generálása
+Visa kártya típus generálása
+Voyager kártya típus generálása
+
+Valódi kártyaszám
+
+Végleges Tesztelés
