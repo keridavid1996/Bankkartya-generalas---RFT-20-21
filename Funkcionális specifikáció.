@@ -1,0 +1,39 @@
+A rendszer célja
+
+A program képes legyen egy valódi bankkártya tulajdonságait megjeleníteni.
+Az alábbi tulajdonságot bekéri a program: kártyaszám, kártyabirtokos neve, érvényességi idő. Amiket megadva ellehet majd menteni a kártyát.
+
+
+Jelenlegi helyzet leírása.
+
+Kakuk Balázs és Kéri Dávid a rendszerfejlesztés technológiája tárgy teljesítése céljából szeretne egy bankkártya generátor szoftvert készíteni. 
+Az ötletet Geda Gábor - Adatszerkezetek és algoritmusok jegyzetében található Luhm-algoritmus adta amivel a bankkártya szám valódiságát lehet tesztelni.
+
+ Vágyálomrendszer leírása.
+
+Bankkártya generáló program. Ami képes minden bankkártya tulajdonságot megjeleníteni.
+
+ Követelménylista.
+
+Bankkártya grafikai tervezése
+Szöveg dobozok elhelyezése a kártyán
+
+Label-ek elhelyezése a kártyán
+Tesztelés
+Label-ek átlászóvá tétele
+
+Generáló osztály hozzáadása
+Mastercard kártya tipus generálása
+Amex kártya tipus generálása
+Diners kártya típus generálása
+Discover kártya típus generálása
+Enroute kártya típus generálása
+JCB-15 kártya típus generálása
+JCB-16 kártya típus generálása
+Visa kártya típus generálása
+Voyager kártya típus generálása
+
+Valódi kártyaszám
+
+Végleges Tesztelés
+
