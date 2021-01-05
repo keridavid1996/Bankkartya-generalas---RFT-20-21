@@ -1,0 +1,22 @@
+Credit card/Debit card	                Prioritás	                    Felelős
+Bankkártya grafikai tervezése	            1	                        Kakuk Balázs
+Szöveg dobozok elhelyezése a kártyán	    1	                        Kakuk Balázs
+Tesztelés                                	1	                        Kéri Dávid
+Label-ek elhelyezése a kártyán	          1	                        Kakuk Balázs
+Tesztelés	                                1	                        Kéri Dávid
+Label-ek átlászóvá tétele	                1                       	Kéri Dávid
+Tesztelés	                                1	                        Kéri Dávid
+Generáló osztály hozzáadása	              1                       	Kakuk Balázs
+Mastercard kártya tipus generálása	      1                       	Kakuk Balázs
+Amex kártya tipus generálása	            1	                        Kakuk Balázs
+Diners kártya típus generálása	          1	                        Kakuk Balázs
+Tesztelés	                                1	                        Kéri Dávid
+Discover kártya típus generálása	        2	                        Kéri Dávid
+Enroute kártya típus generálása         	2	                        Kéri Dávid
+JCB-15 kártya típus generálása	          2                       	Kéri Dávid
+JCB-16 kártya típus generálása	          2	                        Kéri Dávid
+Visa kártya típus generálása	            1                       	Kéri Dávid
+Voyager kártya típus generálása	          2	                        Kéri Dávid
+Valódi kártyaszám	                        1	                        Kakuk Balázs
+Mentés	                                  1	                        Kakuk Balázs
+Végleges Tesztelés                      	1                        	Kéri Dávid
