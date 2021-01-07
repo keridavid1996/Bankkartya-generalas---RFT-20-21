@@ -1,0 +1,11 @@
+Kártyaszám: A mező kitöltése után a program grafikai felületén megjelenik a beírt kártyaszám.
+
+Ércényességi idő: A mező kitöltése után megjelenik a program grafikai felületén a beírt érvényességi idő.
+                  Az érvényességi időt legördülő menüből lehet majd kiválasztani.
+                  
+Kártyatulajdonos: A mező kitöltése után megjelenik a program grafikai felületén a a beírt név.
+
+Kártyatípus kiválasztása: A megfelelő a típus alatti kattintással lehet kiválasztani.
+                          Típusonként eltérő színnel fog megjelenni a kártyaszám a program grafikai felületén.
+                          
+A mentés gomb:  Lenyomása után, a bankkártya a megadott adatpkkal JPG-formátumban mentésre kerül.                         
