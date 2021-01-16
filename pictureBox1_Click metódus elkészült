@@ -1,0 +1,7 @@
+ private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = Image.FromFile(@"F:\Redwoods\PCC front.jpg");
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.Image = Image.FromFile(@"F:\Redwoods\PCC back.jpg");
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+        }
