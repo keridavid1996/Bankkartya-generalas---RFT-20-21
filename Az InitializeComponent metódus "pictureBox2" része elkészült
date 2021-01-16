@@ -1,0 +1,8 @@
+  // pictureBox2
+            // 
+            this.pictureBox2.Location = new System.Drawing.Point(601, 18);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(583, 351);
+            this.pictureBox2.TabIndex = 2;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox1_Click);
